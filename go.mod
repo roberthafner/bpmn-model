@@ -1,1 +1,1 @@
-module github.com/roberthafner/bpmn-model
+module github.com/roberthafner/model
