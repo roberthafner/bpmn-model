@@ -14,8 +14,8 @@ func NewEndEvent(id string, name string, documentation string) EndEvent {
 						baseElement: baseElement{
 							id: id,
 						},
-						name:          "name",
-						documentation: "documentation",
+						name:          name,
+						documentation: documentation,
 					},
 				},
 			},
