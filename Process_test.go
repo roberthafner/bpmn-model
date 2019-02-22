@@ -105,7 +105,7 @@ func TestProcess_NewProcess(t *testing.T) {
 		t.Fail()
 	}
 
-	if "123" != p.Name {
+	if "name" != p.Name {
 		t.Fail()
 	}
 
